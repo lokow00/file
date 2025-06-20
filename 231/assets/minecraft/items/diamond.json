@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/multicake"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/multicake23"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/multicake13"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/bp"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/amuletsily"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/amulet1"
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/reflekt"
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/lcoin"
+        },
+        "threshold": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_sword"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/drewnianadzida"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/dzidakamiena"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/dzidardzawa"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/dzidazelazo"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/dzidastal"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/daggerdrewno"
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/daggerkamien"
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/daggerrdza"
+        },
+        "threshold": 8
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/daggerzelazo"
+        },
+        "threshold": 9
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/daggerstal"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/katanadrewno"
+        },
+        "threshold": 11
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/katanardza"
+        },
+        "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/katanazelazo"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/katanastal"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/kijdrewno"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "template:item/kijzelazo"
+        },
+        "threshold": 16
+      }
+    ]
+  }
+}
